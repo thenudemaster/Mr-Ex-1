@@ -77,7 +77,7 @@ $ python2 mr ex.py
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/Mr3x1" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Mr3x1" target="_blank"><img src="https://img.shields.io/badge/Github-Mr. Exgreen?style=for-the-badge&logo=github"></a>
   <a href="https://facebook.com/mr.3x1" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
 </p>
 
